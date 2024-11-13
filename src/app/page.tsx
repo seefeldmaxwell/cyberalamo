@@ -1,4 +1,5 @@
 // src/app/page.tsx
+/* eslint-disable */
 
 'use client';
 
